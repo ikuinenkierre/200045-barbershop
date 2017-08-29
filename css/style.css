@@ -238,6 +238,39 @@ a {
   background-color: #ffffff;
 }
 
+.item-photo-preview {
+  list-style: none;
+}
+
+.item-photo-preview li {
+  box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
+}
+
+.item-photo-full {
+  box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
+}
+
+.item-article {
+  text-align: right;
+  color: #aeaeae;
+}
+
+.item-price span {
+  line-height: 20px;
+  text-align: center;
+
+  background-color: #e5e5e5;
+}
+
+.item-info h3 {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.item-info ul {
+  list-style: none;
+}
+
 .main-footer {
   color: #ffffff;
 
