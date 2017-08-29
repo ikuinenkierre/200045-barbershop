@@ -40,18 +40,18 @@ a {
   border: none;
 }
 
-.button: hover,
+.button:hover,
 .button:focus,
 .button:active {
   background-color: #663d15;
 }
 
 .main-navigation {
-  	font-size: 16px;
-    line-height: 20px;
-    color: #ffffff;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
 
-    background-color: #000000;
+  background-color: #000000;
 }
 
 .site-navigation,
@@ -355,4 +355,4 @@ a {
 .forgot-password:focus {
   text-decoration: none;
 }
-}
+
